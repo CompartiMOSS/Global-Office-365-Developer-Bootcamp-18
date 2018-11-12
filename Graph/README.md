@@ -2,5 +2,5 @@
 ## Microsoft Graph de Principio a Fin 
 
 ### Demos
-1. [Lab 1: Registro de Azure AD App y obtención de Token](./azure-active-directory/readme.md)
+1. [Lab 1: Registro de Azure AD App y obtención de Token](./azure-active-directory/README.md)
 
