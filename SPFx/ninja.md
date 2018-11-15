@@ -1,5 +1,5 @@
-# Global Office 365 Developer Bootcamp Barcelona 2018 
-En este repositorio podrás encontrar los materiales utilizados en el Workshop **SPFx for Ningas** Global Office 365 Developer Bootcamp Barcelona 2018 .
+# Global Office 365 Developer Bootcamp Madrid 2018 
+En este repositorio podrás encontrar los materiales utilizados en el Workshop **SPFx for Ningas** Global Office 365 Developer Bootcamp Madrid 2018 .
 
 ## Ponentes
 1. Adrián Díaz - MS Office Development MVP [@AdrianDiaz81](https://twitter.com/AdrianDiaz81)
