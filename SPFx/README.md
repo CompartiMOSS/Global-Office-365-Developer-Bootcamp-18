@@ -5,4 +5,4 @@ El laboratorio se va a dividir en dos partes, dependiendo de tu nivel en la plat
 
 [SPFx for beginners](./begin.md)
 
-[SPFx for Ninjas] (./ninjas.md)
+[SPFx for Ninjas](./ninjas.md)
