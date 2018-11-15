@@ -1,6 +1,6 @@
 # SPFx for Beginners
 
-En este repositorio podrás encontrar el material utilizado en el Global Office Developer Bootcamp 2018 en Barcelona, durante el cual aprenderemos a desarrollar con Sharepoint Framework (SPFx).
+En este repositorio podrás encontrar el material utilizado en el Global Office Developer Bootcamp 2018 en Madrid, durante el cual aprenderemos a desarrollar con Sharepoint Framework (SPFx).
 
 ## Laboratorio
 
