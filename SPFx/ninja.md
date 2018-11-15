@@ -8,4 +8,4 @@
 El Workshop consta de dos laboratorios, uno sobre como personalizar la ToolPart de SPFx y ver como poder generar un componentente generico de validación. El otro laboratorio es como generar una aplicación SPA dentro de SPFX haciendo uso de React-Router, Redux.
 
 1. [ToolPart avanzado](./toolpart.md)
-2. [Crear una SPA] (./spa.md)
+2. [Crear una SPA](./spa.md)
