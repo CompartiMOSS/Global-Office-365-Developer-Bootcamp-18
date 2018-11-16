@@ -1,4 +1,5 @@
 # Global Office 365 Developer Bootcamp Madrid 2018
 ## PowerApps to the Next Level: Explota PowerApps con las Model Driven Apps  
+### Recientemente se ha introducido las Model-Driven Apps, un nuevo modelo de desarrollo en PowerApps que permite desarrollar aplicaciones muy centradas en los procesos de negocio y que comparten un modelo de datos con Dynamics 365. Este tipo de apps se componen utilizando múltiples componentes como paneles, formularios, vistas, gráficos y procesos de negocio hechos con Microsoft Flow y tienen una integración muy profunda con el Common Data Service for Apps y con los modelos de datos de Dynamics 365. En este laboratorio explicaremos este nuevo modelo de apps de PowerApps y lo compararemos con el modelo tradicional de Canvas Apps, explicando la integración en diseño y datos con Dynamics 365 y el Common Data Model for Apps. 
 
-
+### En "Laboratorio a hacer en el bootcamp - Petición de viajes" realizaremos un ejemplo de un proceso de petición de viajes en una compañía. En "Laboratorio avanzado - App in a day" te presentamos un laboratorio desarrollado por Microsoft para construir una app compleja con PowerApps (Canvas apps y Model Driven apps), Microsoft Flow y Power BI.
