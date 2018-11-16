@@ -29,7 +29,7 @@ spo site appcatalog add --url https://<nombe_del_tenant>.sharepoint.com/sites/Ap
 5. [Habilitar el CDN para el tenant de Office 365](https://docs.microsoft.com/es-es/office365/enterprise/use-office-365-cdn-with-spo), ya que será necesario para poder hacer el deploy de nuestros desarrollos.
 
 ```
-spo cdn set –type Public –enabled true
+spo cdn set –-type Public –-enabled true
 ```
 
 6. Crear un *Sitio de Equipo* para probar nuestros desarrollos (en este caso le llamamos *DevSite*, por ejemplo).
