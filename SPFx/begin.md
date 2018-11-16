@@ -6,7 +6,7 @@ En este repositorio podrás encontrar el material utilizado en el Global Office 
 
 El objetivo del laboratorio es el desarrollo de un ChatBot que pueda incluirse en cualquier página de Sharepoint. Para ello crearemos una extensión SPFx que se conectará a un Bot implementado con la herramienta [QnA Maker](https://www.qnamaker.ai/). 
 
-![ChatBotExtension](https://github.com/CompartiMOSS/Global-Office-365-Developer-Bootcamp-BCN-18/blob/master/SPFX/SPFX-Beginners/assets/01_ChatBotExtension.png)
+![ChatBotExtension](https://github.com/CompartiMOSS/Global-Office-365-Developer-Bootcamp-BCN-18/blob/master/SPFX/SPFX-Beginners/assets/01_ChatBotExtension_Madrid.png)
 
 ### Prerequisitos
 
