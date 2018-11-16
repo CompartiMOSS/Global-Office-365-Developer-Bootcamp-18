@@ -184,6 +184,10 @@ Cabe indicar que debéris indicar el *KnowledgeBaseId* asignado cuando creasteis
 
 8. Dentro la carpeta *qnAChat/components* crearemos los siguientes ficheros que a continuación implementaremos.
 
+     - FooterChat.module.scss
+     - FooterChat.tsx
+     - IFooterChatProps.ts
+
 9. Editaremos el fichero *FooterChat.module.scss* que contendrá los estilos del chat.
 ```
 .FooterChat{
