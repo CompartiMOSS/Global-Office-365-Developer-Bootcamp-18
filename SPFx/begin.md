@@ -346,7 +346,7 @@ Para poder instalar el componente utilizaremos Office365Cli mediante los pasos s
 
 ```
 spo login https://tutenant-admin.sharepoint.com
-spo add -p C:\TuCarpetaProyecto\sharepoint\solution\qna-chat.sppkg
+spo app add -p C:\TuCarpetaProyecto\sharepoint\solution\qna-chat.sppkg
 ```
 
 2. Al añadir nuestro aplicación al catálogo, recibiremos un *id*, que utilizaremos para hacer el *deploy* y posteriormente instalarla en la colección de sitios que queramos:
